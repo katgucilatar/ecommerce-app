@@ -12,6 +12,7 @@ E-Commerce App
 This E-Commerce app was created for an assignment by UNC Coding Bootcamp. This app utilizes Express.JS, MySQL, and Sequelize to create a database in which its data can be created, updated, and deleted.
 
 Watch the following walkthrough video to see how this app works: 
+https://watch.screencastify.com/v/xL97owiRmhvxZUXjydDe
 
 ## Installation
 In order to download this code from the repository, one must have a software such as VS Code or one that's similar. Along with VS Code, it is necessary to download Node.JS and MySQL.
@@ -36,6 +37,7 @@ Upon installing everything, this app is tested using Insomnia. There are categor
 For this specific test, we are going to be creating an item, updating the name of that item, and deleting that item. 
 
 Watch this in the following walkthrough video here:
+https://watch.screencastify.com/v/xL97owiRmhvxZUXjydDe
 
 
 ## Usage
